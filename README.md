@@ -1,6 +1,6 @@
 # recursion
 # experiment-15
-## AIM- 
+## AIM- To study and implement recursion in c++
 ## Theory-
 Recursion is a programming technique where a function calls itself in order to solve a problem. In C++, recursion is used to break down complex problems into simpler, more manageable sub-problems, which are solved iteratively through the recursive function.
 Key Concepts:
