@@ -130,7 +130,14 @@ int main()
 }
 
 ~~~
+## Output-
+![](https://github.com/SunidhiChoubey/recursion/blob/main/Screenshot%202024-10-01%20022512.png)
+![](https://github.com/SunidhiChoubey/recursion/blob/main/Screenshot%202024-10-01%20022431.png)
+![](https://github.com/SunidhiChoubey/recursion/blob/main/Screenshot%202024-10-01%20022404.png)
+![](https://github.com/SunidhiChoubey/recursion/blob/main/Screenshot%202024-10-01%20022337.png)
 
+## Conclusion-
+we learnt about recursion in c++
 
 
 
